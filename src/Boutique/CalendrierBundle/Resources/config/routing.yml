@@ -1,0 +1,3 @@
+boutique_calendrier_homepage:
+    path:     /calendrier
+    defaults: { _controller: BoutiqueCalendrierBundle:Calendrier:index }

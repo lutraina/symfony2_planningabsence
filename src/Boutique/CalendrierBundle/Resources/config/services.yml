@@ -1,0 +1,7 @@
+parameters:
+#    boutique_calendrier.example.class: Boutique\CalendrierBundle\Example
+
+services:
+#    boutique_calendrier.example:
+#        class: %boutique_calendrier.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
